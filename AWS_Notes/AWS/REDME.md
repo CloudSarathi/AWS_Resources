@@ -1,6 +1,7 @@
 # AWS
 
-<img width="1400" height="691" alt="image" src="https://github.com/user-attachments/assets/e457f0af-8d16-40c7-9093-abc295851cba" />
+<img width="1400" height="691" alt="image" src="https://github.com/user-attachments/assets/807429be-1e02-48c1-b6f8-c39c6e07c267" />
+
 
 **Note**: Some of the exercises <b>cost $$$</b> and can't be performed using the free tier/resources
 
